@@ -1,2 +1,2 @@
 # hello-word
-My first repository
+Testing and trying how to on github :)
